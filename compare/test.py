@@ -99,15 +99,4 @@ print(TolD/Count)
 print(TolS/Count)
 print(TolP/Count)
 print(TolR/Count)
-# np.save('/media/s1/hxz/picture/seg92.npy',pp)
-# np.save('/media/s1/hxz/picture/truth92.npy',y1)
-# np.save('/media/s1/hxz//picture/raw92.npy',x1)
-# plt.subplot(234)
-# plt.imshow(data[0,2,:,:],cmap = plt.get_cmap('gray'))
-# plt.subplot(235)
-# plt.imshow(data[0,3,:,:],cmap = plt.get_cmap('gray'))
 
-# from PIL import Image
-# I=Image.fromarray(s[0,0,:,:])
-
-# I.show()
